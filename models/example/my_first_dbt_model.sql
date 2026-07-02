@@ -13,7 +13,7 @@ with source_data as (
 
     select 1 as id,'p' name
     union all
-    select null as id
+    select null as id,'h' name
 
 )
 

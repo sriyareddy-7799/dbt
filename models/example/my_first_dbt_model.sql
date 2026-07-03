@@ -11,7 +11,7 @@
 
 with source_data as (
 
-    select 1 as id,'p' name,'c' place
+    select 1 as id,'p' name,'h' place
     union all
     select null as id,'h' name
 
